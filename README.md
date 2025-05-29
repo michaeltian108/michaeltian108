@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @michaeltian108
-- 👀 I’m new in Github
-- 🌱 I’m currently learning CBIR for my phd
-- 💞️ I’m looking to collaborate on CV related works!
-- 📫 Contact me via michaeltqw@stu.xjtu.edu.cn
+- 👀 I’m a PhD Candidate @ XJTU
+- 🌱 I’m currently working on Large Vision-Language Models
+- 💞️ I’m looking to Postdoc/MLE positions in Sydney/Melbourne/Mainlan China.
+- 📫 Contact me via michaeltqw@stu.xjtu.edu.cn(work)/cheevy1992@hotmail.com(personal)
 
 <!---
 michaeltian108/michaeltian108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
