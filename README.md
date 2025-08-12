@@ -6,7 +6,7 @@
 
 ## My Papers @ Repositories
 - [Adversarial Video Promotion Against Text-to-Video Retrieval (Arxiv 2025)](https://arxiv.org/abs/2508.06964) - Respository@[ViPro](https://github.com/michaeltian108/ViPro) ![GitHub stars](https://img.shields.io/github/stars/michaeltian108/ViPro)
-- [Collapse-Aware Triplet Decoupling for Adversarially Robust Image Retrieval(ICML24)](https://arxiv.org/abs/2312.07364) - Respository@[CA-TRIDE](https://github.com/michaeltian108/CA-TRIDE) ![GitHub stars](https://img.shields.io/github/stars/michaeltian108/CA-TRIDE)
+- [Collapse-Aware Triplet Decoupling for Adversarially Robust Image Retrieval (ICML24)](https://arxiv.org/abs/2312.07364) - Respository@[CA-TRIDE](https://github.com/michaeltian108/CA-TRIDE) ![GitHub stars](https://img.shields.io/github/stars/michaeltian108/CA-TRIDE)
 - [Learning Heuristically-Selected and Neurally-Guided Feature for Age Group Recognition Using Unconstrained Smartphone Interaction (IJCAI23)](https://www.ijcai.org/proceedings/2023/0338.pdf)
 
 ### More work from [XJTU-AISEC(our group)]:
