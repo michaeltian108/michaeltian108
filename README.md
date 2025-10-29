@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaeltian108
-- 👀 I’m a PhD Candidate from the XJTU-AISEC group @ XJTU, graduating by 2025
-- 🌱 I’m currently working on LVLM/LLM finetuning/designing/deployment
+- 👀 I’m a PhD Candidate from the XJTU-AISEC group @ XJTU, graduatingbin early 2026
+- 🌱 I’m currently working on LVLM/LLM finetuning/deployment/robustness
 - 💞️ I’m looking to Postdoc/MLE/AIE positions in Sydney/Melbourne/Mainland China
 - 📫 Contact me via michaeltqw@stu.xjtu.edu.cn(work)/cheevy1992@hotmail.com(personal)
 
